@@ -1,0 +1,5 @@
+name: "ServerLagggger"
+version: 0.0.1
+description: "Make your server lag when the savior is not online"
+author: Hykilpikonna
+main: cc.moecraft.useless.serverlagger.Main
